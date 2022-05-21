@@ -1,2 +1,2 @@
-# LSP1
+# LSP
 LinuxSystemProgramming1
