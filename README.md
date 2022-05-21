@@ -1,4 +1,4 @@
 # LSP
-LinuxSystemProgramming
+Linux System Programming
 
-리눅스시스템프로그래밍
+리눅스 시스템 프로그래밍
