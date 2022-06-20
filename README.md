@@ -1,5 +1,4 @@
-# LSP
-Linux System Programming
+# Linux System Programming
 리눅스 시스템 프로그래밍 설계
 
 설계 정보는 폴더 내의 readme 참고
